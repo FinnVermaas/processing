@@ -11,9 +11,9 @@ void draw(){
   background(10,200,80);
   fill(0,10,200);
   stroke(0,10,200);
-  ellipse(x,y+=3,60,60);
-  fill(126,126,126);
-  stroke(126,126,126);
+  ellipse(x,y+=10,60,60);
+  //fill(126,126,126);
+  //stroke(126,126,126);
   //rect(500,
   
 }
